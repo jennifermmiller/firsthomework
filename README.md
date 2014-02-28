@@ -1,4 +1,4 @@
-firsthomework
+My first homework assignment
 =============
 
 ###Attempt to create something that looks okay.
